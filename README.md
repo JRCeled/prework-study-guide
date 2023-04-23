@@ -10,11 +10,7 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+This Prework Study Guide is intended to be used for reviewing the notes within it, so that you can learn more about each of the topics. In each topic you will see notes pertaining to the topic and you can also open the dev tools by right clicking on the website and selecting Inspect on the pop up menu. 
 
 ## Credits
 
